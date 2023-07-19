@@ -3,3 +3,11 @@ body {
     color: crimson;
     
 }
+
+.contenedor {
+    width: 80%;
+    color: blue;
+    border: 2px solid red;
+    text-align: center;
+    margin: 0 auto;
+}
